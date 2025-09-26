@@ -1,0 +1,26 @@
+# Archivos temporales
+*.log
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# Salidas de herramientas
+sources/build/
+build/
+out/
+*.iml
+.gradle/
+.idea/
+*.apk
+*.aab
+
+# Binarios y caches
+*.dex
+*.so
+*.o
+*.jar
+*.aar
+.cache/
+
+# Si no querés subir el APK original, descomentá:
+# original_apk/
